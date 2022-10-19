@@ -1,0 +1,10 @@
+.leftheader{
+    display: flex;
+    background-color: rgb(211, 204, 204);
+}
+img{
+    display: flex;
+    margin: auto;
+    border-radius: 50%;
+
+}

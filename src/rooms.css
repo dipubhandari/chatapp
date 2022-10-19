@@ -1,0 +1,63 @@
+.onlineSymbol {
+    color: green;
+}
+
+.name {
+    color: skyblue;
+}
+
+.username {
+    color: cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+
+
+.rooms {
+    background-color: #f6f6f6f6;
+    margin-top: 10px;
+
+}
+
+.room:hover {
+    background-color: gainsboro;
+}
+
+.roomtitle {
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+
+}
+
+.room {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+
+.roomName {
+    font-weight: bold;
+    flex: 3;
+    justify-content: center;
+    display: flex;
+    color: black;
+}
+
+.right {
+    flex: 4;
+    display: grid;
+    justify-content: center;
+}
+
+.roomImg {
+    margin-left: 12px;
+}

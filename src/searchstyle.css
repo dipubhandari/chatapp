@@ -1,0 +1,23 @@
+.searchbar{
+    display: flex;
+    background-color: #f6f6f6;
+  padding: 10px;
+  margin: 10px 0px 0px 12px;
+  border-radius: 20px;
+    
+}
+input{
+    width: 100%;
+    border: none;
+    background-color: #f6f6f6;
+
+    height: 20px;
+
+}
+input:focus{
+    border-color: ghostwhite;
+}
+.searchIcon{
+    margin: auto;
+  
+}
